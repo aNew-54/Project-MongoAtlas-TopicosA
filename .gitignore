@@ -4,4 +4,4 @@ myenv/
 #Ignore secret
 .env
 
-#
+__pycache__/
